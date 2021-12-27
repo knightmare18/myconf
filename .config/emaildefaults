@@ -1,0 +1,6 @@
+[Defaults]
+Profile=Por omisión
+
+[PROFILE_Por omisión]
+ServerType=
+TerminalClient=false

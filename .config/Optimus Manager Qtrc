@@ -1,0 +1,4 @@
+[KFileDialog Settings]
+Recent Files[$e]=file.conf,file:$HOME/Escritorio/file.conf
+Recent URLs[$e]=file:$HOME/Escritorio/,file:$HOME/,file:$HOME/Documentos/,file:$HOME/Descargas/
+detailViewIconSize=16

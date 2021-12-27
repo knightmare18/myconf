@@ -1,0 +1,17 @@
+[2021-12-27 05:06:26.410] [exthost] [info] Extension host with pid 8997 started
+[2021-12-27 05:06:26.410] [exthost] [info] Skipping acquiring lock for /home/knightmare/.config/Code/User/workspaceStorage/a25342c127db0706f0098bd9ac1876b5.
+[2021-12-27 05:06:26.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-27 05:06:26.532] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-27 05:06:26.583] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-27 05:06:26.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-27 05:06:26.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-27 05:06:26.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-27 05:06:26.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-27 05:06:27.010] [exthost] [info] Eager extensions activated
+[2021-12-27 05:06:27.012] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-27 05:06:27.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 05:06:27.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 05:06:27.099] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 05:06:27.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-27 05:09:50.110] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-27 05:09:50.134] [exthost] [info] Extension host with pid 8997 exiting with code 0

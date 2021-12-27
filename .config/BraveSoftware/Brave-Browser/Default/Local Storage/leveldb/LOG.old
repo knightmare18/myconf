@@ -1,0 +1,15 @@
+2021/12/27-06:17:48.388 3 Reusing MANIFEST /home/knightmare/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/12/27-06:17:48.389 3 Recovering log #62
+2021/12/27-06:17:48.390 3 Reusing old log /home/knightmare/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000062.log 
+2021/12/27-06:32:41.838 a Level-0 table #66: started
+2021/12/27-06:32:41.850 a Level-0 table #66: 16874 bytes OK
+2021/12/27-06:32:41.852 a Delete type=0 #62
+2021/12/27-06:32:41.852 a Compacting 4@0 + 1@1 files
+2021/12/27-06:32:41.860 a Generated table #67@0: 250 keys, 498203 bytes
+2021/12/27-06:32:41.860 a Compacted 4@0 + 1@1 files => 498203 bytes
+2021/12/27-06:32:41.862 a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/27-06:32:41.862 a Delete type=2 #54
+2021/12/27-06:32:41.862 a Delete type=2 #66
+2021/12/27-06:32:41.863 a Delete type=2 #57
+2021/12/27-06:32:41.863 a Delete type=2 #63
+2021/12/27-06:32:41.863 a Delete type=2 #60

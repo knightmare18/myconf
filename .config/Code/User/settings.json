@@ -1,0 +1,7 @@
+{   "editor.fontFamily": "'CodeNewRoman Nerd Font,Consolas', 'monospace', monospace, 'Droid Sans Fallback,'",
+    "workbench.colorTheme": "Atom One Dark",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.showTabs": false,
+    "workbench.editor.untitled.hint": "hidden"
+}

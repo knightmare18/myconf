@@ -1,0 +1,7 @@
+[2021-12-27 04:38:57.594] [main] [info] update#setState idle
+[2021-12-27 04:38:57.626] [main] [info] ExtensionHostStarterWorker created
+[2021-12-27 04:38:58.471] [main] [info] Starting extension host with pid 5593 (fork() took 7 ms).
+[2021-12-27 04:39:27.600] [main] [info] update#setState checking for updates
+[2021-12-27 04:39:27.820] [main] [info] update#setState idle
+[2021-12-27 04:39:57.395] [main] [info] Waiting for extension host with pid 5593 to exit.
+[2021-12-27 04:39:57.395] [main] [info] Extension host with pid 5593 exited with code: 0, signal: null.

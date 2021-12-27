@@ -1,0 +1,453 @@
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x5628be98c5f0, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x55999bd63dd0, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x5646e0112cc0, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x557aad7cc110, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x55607f7e8190, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x561427fa9200, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x562b8db8d9f0, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x55f9a0ef7770, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x55ff7a7d0220, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x5645568894f0, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+No backend specified through command line argument, trying auto resolution
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5089:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5091:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5093:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5097:47: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5099:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5107:48: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5111:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5113:46: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5117:45: this compose sequence is a duplicate of another; skipping line
+kwin_xkbcommon: XKB: /usr/share/X11/locale/en_US.UTF-8/Compose:5120:46: this compose sequence is a duplicate of another; skipping line
+Icon theme "gnome" not found.
+Icon theme "elementary" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Icon theme "gnome" not found.
+Filter multi-plane format 961959257
+Filter multi-plane format 825316697
+Filter multi-plane format 842093913
+Filter multi-plane format 909202777
+Filter multi-plane format 875713881
+Filter multi-plane format 961893977
+Filter multi-plane format 825316953
+Filter multi-plane format 842094169
+Filter multi-plane format 909203033
+Filter multi-plane format 875714137
+Filter multi-plane format 842094158
+Filter multi-plane format 909203022
+kwin_wayland_drm: setting gamma failed! Función no implementada
+kwin_core: Failed to update gamma ramp for output KWin::DrmOutput(0x5631a2fca3c0, name="HDMI-A-1", geometry=QRect(1920,0 1920x1080), scale=1)
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+(WW) Option "-listen" for file descriptors is deprecated
+Please use "-listenfd" instead.
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Could not create gbm surface! Función no implementada
+kwin_wayland_drm: Creating GBM surface failed: Función no implementada
+(EE) could not connect to wayland server
+startplasmacompositor: Shutting down...
+startplasmacompositor: Done.

@@ -1,0 +1,4 @@
+[2021-12-27 04:40:11.015] [main] [info] update#setState idle
+[2021-12-27 04:40:11.049] [main] [info] ExtensionHostStarterWorker created
+[2021-12-27 04:40:12.092] [main] [info] Starting extension host with pid 5822 (fork() took 12 ms).
+[2021-12-27 04:40:15.870] [main] [info] Extension host with pid 5822 exited with code: 0, signal: null.

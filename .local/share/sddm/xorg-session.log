@@ -1,0 +1,1262 @@
+steam.sh[3945]: Running Steam on arcolinux rolling 64-bit
+steam.sh[3945]: STEAM_RUNTIME is enabled automatically
+setup.sh[4018]: Steam runtime environment up-to-date!
+steam.sh[3945]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Loaded SDL version 2.0.19-6963453
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(steam:4075): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+/usr/share/themes/Material-Black-Blueberry-4.0/gtk-2.0/main.rc:790: error: unexpected identifier `direction', expected character `}'
+
+(steam:4075): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+/usr/share/themes/Material-Black-Blueberry-4.0/gtk-2.0/hacks.rc:28: error: invalid string constant "normal_entry", expected valid string constant
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Fontconfig warning: line 5: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 4: unknown element "description"
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 4: unknown element "description"
+steamwebhelper.sh[4079]: Runtime for steamwebhelper: defaulting to /home/knightmare/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+CAppInfoCacheReadFromDiskThread took 27 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Proceed to auto login
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Opted-in Controller Mask for AppId 0: 0
+
+(steam:4075): Gtk-WARNING **: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+roaming config store loaded successfully - 235 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 12ms
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/knightmare/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 5.28 seconds
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+
+(steam:4075): LIBDBUSMENU-GLIB-WARNING **: Trying to remove a child that doesn't believe we're it's parent.
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+BuildCompleteAppOverviewChange: 179
+RegisterForAppOverview 1: 17ms
+RegisterForAppOverview 2: 18ms
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+ExecuteSteamURL: "steam://open/games"
+Couldn't write /boot/efi/.steam_exec_test.sh: Permission denied
+Couldn't write /boot/efi/.steam_exec_test.sh: Permission denied
+GameAction [AppID 252950, ActionID 1] : InstallApps changed task to CreateNextApp with ""
+saving roaming config store to 'sharedconfig.vdf'
+roaming config store 2 saved successfully
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+GameAction [AppID 252950, ActionID 1] : InstallApps changed task to RemoveGameDemos with ""
+GameAction [AppID 252950, ActionID 1] : InstallApps changed task to CreateSystemEntries with ""
+GameAction [AppID 252950, ActionID 1] : InstallApps changed task to AutoLaunch with ""
+GameAction [AppID 252950, ActionID 1] : InstallApps changed task to Complete with ""
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+ExecuteSteamURL: "steam://open/games"
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+GameAction [AppID 252950, ActionID 2] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 252950, ActionID 2] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 252950, ActionID 2] : LaunchApp changed task to ProcessingShaderCache with ""
+Fossilize INFO: Setting autogroup scheduling.
+GameAction [AppID 252950, ActionID 2] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 252950, ActionID 2] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 252950, ActionID 2] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 252950, ActionID 2] : LaunchApp continues with user response "CreatingProcess"
+Opted-in Controller Mask for AppId 252950: 0
+/bin/sh\0-c\0/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'\0
+Game process added : AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 10666, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 252950, ActionID 2] : LaunchApp changed task to WaitingGameWindow with ""
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 252950, ActionID 2] : LaunchApp changed task to Completed with ""
+Game process updated : AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 10667, IP 0.0.0.0:0
+Setting breakpad minidump AppID = 252950
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198838972356 [API loaded no]
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(gameoverlayui)/version(20211216223908)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Fontconfig warning: line 5: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 4: unknown element "description"
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 4: unknown element "description"
+Game process removed: AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 10667 
+Game 252950 created interface STEAMAPPLIST_INTERFACE_VERSION001 / AppList
+Game 252950 created interface STEAMAPPS_INTERFACE_VERSION008 / Apps
+Game 252950 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_004 / HTMLSurface
+Game 252950 created interface STEAMHTTP_INTERFACE_VERSION002 / HTTP
+Game 252950 created interface STEAMINVENTORY_INTERFACE_V002 / Inventory
+Game 252950 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / MusicRemote
+Game 252950 created interface STEAMMUSIC_INTERFACE_VERSION001 / Music
+Game 252950 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / ParentalSettings
+Game 252950 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION014 / RemoteStorage
+Game 252950 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / Screenshots
+Game 252950 created interface STEAMUGC_INTERFACE_VERSION010 / UGC
+Game 252950 created interface STEAMUSERSTATS_INTERFACE_VERSION011 / UserStats
+Game 252950 created interface STEAMVIDEO_INTERFACE_V002 / Video
+Game 252950 created interface SteamController006 / Controller
+Game 252950 created interface SteamFriends015 / Friends
+Game 252950 created interface SteamMatchMaking009 / Matchmaking
+Game 252950 created interface SteamMatchMakingServers002 / MatchmakingServers
+Game 252950 created interface SteamNetworking005 / Networking
+Game 252950 created interface SteamUser019 / User
+Game 252950 created interface SteamUtils009 / Utils
+Game 252950 method call count for IClientAppManager::GetCurrentLanguage : 1
+Game 252950 method call count for IClientUtils::RecordSteamInterfaceCreation : 22
+Game 252950 method call count for IClientUtils::GetAppID : 23
+Game 252950 method call count for IClientUser::GetSteamID : 1
+Uploaded AppInterfaceStats to Steam
+No cached sticky mapping in ActivateActionSet.Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+
+(process:10692): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+GameAction [AppID 252950, ActionID 3] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 252950, ActionID 3] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 252950, ActionID 3] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 252950, ActionID 3] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 252950, ActionID 3] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 252950, ActionID 3] : LaunchApp continues with user response "CreatingProcess"
+/bin/sh\0-c\0/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'\0
+Game process added : AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 11200, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 252950, ActionID 3] : LaunchApp changed task to WaitingGameWindow with ""
+GameAction [AppID 252950, ActionID 3] : LaunchApp changed task to Completed with ""
+Game process updated : AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 11201, IP 0.0.0.0:0
+Setting breakpad minidump AppID = 252950
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198838972356 [API loaded no]
+Installing breakpad exception handler for appid(gameoverlayui)/version(20211216223908)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Fontconfig warning: line 5: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 4: unknown element "description"
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 4: unknown element "description"
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+[ALSOFT] (EE) Failed to set real-time priority for thread: Operation not permitted (1)
+[ALSOFT] (EE) Failed to set real-time priority for thread: Operation not permitted (1)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+No cached sticky mapping in GetActionSetHandle. Native Steam Controller support won't work.
+No cached sticky mapping in Get*ActionHandle. Native Steam Controller support won't work.
+Game process removed: AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 11201 
+Game 252950 created interface STEAMAPPLIST_INTERFACE_VERSION001 / AppList
+Game 252950 created interface STEAMAPPS_INTERFACE_VERSION008 / Apps
+Game 252950 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_004 / HTMLSurface
+Game 252950 created interface STEAMHTTP_INTERFACE_VERSION002 / HTTP
+Game 252950 created interface STEAMINVENTORY_INTERFACE_V002 / Inventory
+Game 252950 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / MusicRemote
+Game 252950 created interface STEAMMUSIC_INTERFACE_VERSION001 / Music
+Game 252950 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / ParentalSettings
+Game 252950 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION014 / RemoteStorage
+Game 252950 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / Screenshots
+Game 252950 created interface STEAMUGC_INTERFACE_VERSION010 / UGC
+Game 252950 created interface STEAMUSERSTATS_INTERFACE_VERSION011 / UserStats
+Game 252950 created interface STEAMVIDEO_INTERFACE_V002 / Video
+Game 252950 created interface SteamController006 / Controller
+Game 252950 created interface SteamFriends015 / Friends
+Game 252950 created interface SteamMatchMaking009 / Matchmaking
+Game 252950 created interface SteamMatchMakingServers002 / MatchmakingServers
+Game 252950 created interface SteamNetworking005 / Networking
+Game 252950 created interface SteamUser019 / User
+Game 252950 created interface SteamUtils009 / Utils
+Game 252950 method call count for IClientControllerSerialized::GetAnalogActionHandle : 14
+Game 252950 method call count for IClientControllerSerialized::GetDigitalActionHandle : 104
+Game 252950 method call count for IClientControllerSerialized::GetActionSetHandle : 5
+Game 252950 method call count for IClientAudio::GetVoiceOptimalSampleRate : 1
+Game 252950 method call count for IClientRemoteStorage::GetQuota : 1
+Game 252950 method call count for IClientNetworking::AllowP2PPacketRelay : 1
+Game 252950 method call count for IClientUserStats::GetAchievementDisplayAttribute : 176
+Game 252950 method call count for IClientUserStats::GetAchievementIcon : 88
+Game 252950 method call count for IClientUserStats::GetAchievement : 88
+Game 252950 method call count for IClientUserStats::RequestCurrentStats : 1
+Game 252950 method call count for IClientAppManager::GetCurrentLanguage : 1
+Game 252950 method call count for IClientAppManager::GetAppStateInfo : 2
+Game 252950 method call count for IClientAppManager::IsAppDlcInstalled : 23
+Game 252950 method call count for IClientUtils::RecordSteamInterfaceCreation : 24
+Game 252950 method call count for IClientUtils::GetAppID : 27
+Game 252950 method call count for IClientUtils::GetImageRGBA : 3
+Game 252950 method call count for IClientUtils::GetImageSize : 3
+Game 252950 method call count for IClientUtils::GetIPCountry : 1
+Game 252950 method call count for IClientUtils::GetServerRealTime : 1
+Game 252950 method call count for IClientUtils::GetConnectedUniverse : 1
+Game 252950 method call count for IClientFriends::GetFriendPersonaName_Public : 8
+Game 252950 method call count for IClientFriends::SetRichPresence : 5
+Game 252950 method call count for IClientFriends::RequestUserInformation : 8
+Game 252950 method call count for IClientFriends::GetMediumFriendAvatar : 8
+Game 252950 method call count for IClientFriends::GetPersonaName : 3
+Game 252950 method call count for IClientUser::BIsSubscribedApp : 1
+Game 252950 method call count for IClientUser::BIsCyberCafe : 1
+Game 252950 method call count for IClientUser::IsVACBanned : 1
+Game 252950 method call count for IClientUser::GetSteamID : 5
+Game 252950 method call count for IClientUser::BLoggedOn : 4
+Uploaded AppInterfaceStats to Steam
+No cached sticky mapping in ActivateActionSet.
+(process:11224): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+ExecuteSteamURL: "steam://open/downloads"
+GameAction [AppID 252950, ActionID 4] : LaunchApp changed task to ProcessingInstallScript with ""
+GameAction [AppID 252950, ActionID 4] : LaunchApp changed task to SynchronizingCloud with ""
+GameAction [AppID 252950, ActionID 4] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+GameAction [AppID 252950, ActionID 4] : LaunchApp changed task to CreatingProcess with ""
+GameAction [AppID 252950, ActionID 4] : LaunchApp waiting for user response to CreatingProcess ""
+GameAction [AppID 252950, ActionID 4] : LaunchApp continues with user response "CreatingProcess"
+/bin/sh\0-c\0/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'\0
+Game process added : AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 12047, IP 0.0.0.0:0
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 252950, ActionID 4] : LaunchApp changed task to WaitingGameWindow with ""
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/knightmare/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+GameAction [AppID 252950, ActionID 4] : LaunchApp changed task to Completed with ""
+Game process updated : AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 12048, IP 0.0.0.0:0
+Setting breakpad minidump AppID = 252950
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198838972356 [API loaded no]
+Installing breakpad exception handler for appid(gameoverlayui)/version(20211216223908)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Fontconfig warning: line 5: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 4: unknown element "description"
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 4: unknown element "description"
+Installing breakpad exception handler for appid(gameoverlayui)/version(1.0)
+Game process removed: AppID 252950 "/home/knightmare/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=252950 -- '/media/1TB/SteamLibrary/steamapps/common/rocketleague/Binaries/Linux/RocketLeague'", ProcID 12048 
+Game 252950 created interface STEAMAPPLIST_INTERFACE_VERSION001 / AppList
+Game 252950 created interface STEAMAPPS_INTERFACE_VERSION008 / Apps
+Game 252950 created interface STEAMHTMLSURFACE_INTERFACE_VERSION_004 / HTMLSurface
+Game 252950 created interface STEAMHTTP_INTERFACE_VERSION002 / HTTP
+Game 252950 created interface STEAMINVENTORY_INTERFACE_V002 / Inventory
+Game 252950 created interface STEAMMUSICREMOTE_INTERFACE_VERSION001 / MusicRemote
+Game 252950 created interface STEAMMUSIC_INTERFACE_VERSION001 / Music
+Game 252950 created interface STEAMPARENTALSETTINGS_INTERFACE_VERSION001 / ParentalSettings
+Game 252950 created interface STEAMREMOTESTORAGE_INTERFACE_VERSION014 / RemoteStorage
+Game 252950 created interface STEAMSCREENSHOTS_INTERFACE_VERSION003 / Screenshots
+Game 252950 created interface STEAMUGC_INTERFACE_VERSION010 / UGC
+Game 252950 created interface STEAMUSERSTATS_INTERFACE_VERSION011 / UserStats
+Game 252950 created interface STEAMVIDEO_INTERFACE_V002 / Video
+Game 252950 created interface SteamController006 / Controller
+Game 252950 created interface SteamFriends015 / Friends
+Game 252950 created interface SteamMatchMaking009 / Matchmaking
+Game 252950 created interface SteamMatchMakingServers002 / MatchmakingServers
+Game 252950 created interface SteamNetworking005 / Networking
+Game 252950 created interface SteamUser019 / User
+Game 252950 created interface SteamUtils009 / Utils
+Game 252950 method call count for IClientAppManager::GetCurrentLanguage : 1
+Game 252950 method call count for IClientUtils::RecordSteamInterfaceCreation : 22
+Game 252950 method call count for IClientUtils::GetAppID : 23
+Game 252950 method call count for IClientUser::GetSteamID : 1
+Uploaded AppInterfaceStats to Steam
+No cached sticky mapping in ActivateActionSet.
+(process:12064): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Exiting workitem thread
+
+(steam:4075): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(steam:4075): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(steam:4075): GLib-GObject-CRITICAL **: g_signal_handlers_disconnect_matched: assertion `G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:4075): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+steam.sh[12328]: Running Steam on arcolinux rolling 64-bit
+steam.sh[12328]: STEAM_RUNTIME is enabled automatically
+setup.sh[12401]: Steam runtime environment up-to-date!
+steam.sh[12328]: Steam client's requirements are satisfied
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Loaded SDL version 2.0.19-6963453
+Gtk-Message: Failed to load module "gail"
+Gtk-Message: Failed to load module "atk-bridge"
+
+(steam:12458): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+/usr/share/themes/Material-Black-Blueberry-4.0/gtk-2.0/main.rc:790: error: unexpected identifier `direction', expected character `}'
+
+(steam:12458): Gtk-WARNING **: Unable to locate theme engine in module_path: "adwaita",
+/usr/share/themes/Material-Black-Blueberry-4.0/gtk-2.0/hacks.rc:28: error: invalid string constant "normal_entry", expected valid string constant
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Fontconfig warning: line 5: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-hinting-slight.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 4: unknown element "description"
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+Fontconfig warning: "/etc/fonts/conf.d/20-unhint-small-vera.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/30-metric-aliases.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/40-nonlatin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/45-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/49-sansserif.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/51-local.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-generic.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/60-latin.conf", line 4: unknown element "description"
+Fontconfig warning: "/etc/fonts/conf.d/65-nonlatin.conf", line 4: unknown element "description"
+steamwebhelper.sh[12462]: Runtime for steamwebhelper: defaulting to /home/knightmare/.local/share/Steam/ubuntu12_64/steam-runtime-heavy
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+CAppInfoCacheReadFromDiskThread took 27 milliseconds to initialize
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Proceed to auto login
+Opted-in Controller Mask for AppId 0: 0
+
+(steam:12458): Gtk-WARNING **: gtk_disable_setlocale() must be called before gtk_init()
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+roaming config store loaded successfully - 301 bytes.
+migrating temporary roaming config store
+BRefreshApplicationsInLibrary 1: 17ms
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Failed to init SteamVR because it isn't installed
+ExecCommandLine: "'/home/knightmare/.local/share/Steam/ubuntu12_32/steam'"
+System startup time: 4.11 seconds
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+BuildCompleteAppOverviewChange: 179
+RegisterForAppOverview 1: 17ms
+RegisterForAppOverview 2: 18ms
+GameAction [AppID 252950, ActionID 1] : UninstallApps waiting for user response to ConfirmUninstall "252950"
+GameAction [AppID 252950, ActionID 1] : UninstallApps continues with user response "ConfirmUninstall"
+GameAction [AppID 252950, ActionID 1] : UninstallApps changed task to StartNextApp with ""
+GameAction [AppID 252950, ActionID 1] : UninstallApps changed task to StopDownloading with ""
+GameAction [AppID 252950, ActionID 1] : UninstallApps changed task to InstallScript with ""
+GameAction [AppID 252950, ActionID 1] : UninstallApps changed task to RemoveFromOS with ""
+GameAction [AppID 252950, ActionID 1] : UninstallApps changed task to WaitRunning with ""
+GameAction [AppID 252950, ActionID 1] : UninstallApps changed task to DeleteContent with ""
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Couldn't write /boot/efi/.steam_exec_test.sh: Permission denied
+GameAction [AppID 431960, ActionID 2] : InstallApps changed task to CreateNextApp with ""
+saving roaming config store to 'sharedconfig.vdf'
+roaming config store 2 saved successfully
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+GameAction [AppID 431960, ActionID 2] : InstallApps changed task to RemoveGameDemos with ""
+GameAction [AppID 431960, ActionID 2] : InstallApps changed task to CreateSystemEntries with ""
+GameAction [AppID 431960, ActionID 2] : InstallApps changed task to AutoLaunch with ""
+GameAction [AppID 431960, ActionID 2] : InstallApps changed task to Complete with ""
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+[1227/062132.289986:ERROR:file_io_posix.cc(152)] open /home/knightmare/.config/BraveSoftware/Brave-Browser/Crash Reports/pending/cfde2000-e7ff-4417-9e51-af392997a3c2.lock: File exists (17)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.intellij.util.lang.UrlClassLoader (file:/usr/share/pycharm/lib/util.jar) to field java.lang.ClassLoader.classLoaderValueMap
+WARNING: Please consider reporting this to the maintainers of com.intellij.util.lang.UrlClassLoader
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-12-27 06:23:55,259 [   1489]   WARN - tor.impl.FontFamilyServiceImpl - Couldn't access required runtime API, will fall back to basic logic of font selection 
+2021-12-27 06:23:55,646 [   1876]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-12-27 06:23:55,650 [   1880]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-12-27 06:23:55,650 [   1880]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-12-27 06:23:55,651 [   1881]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-12-27 06:23:55,686 [   1916]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: PythonCore] 
+2021-12-27 06:23:55,686 [   1916]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: PythonCore] 
+2021-12-27 06:23:55,689 [   1919]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: org.jetbrains.plugins.github] 
+2021-12-27 06:23:55,807 [   2037]   WARN - tellij.ide.SystemHealthMonitor - issue detected: bundled.jre.version.message 
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+[1227/065103.828956:ERROR:file_io_posix.cc(152)] open /home/knightmare/.config/BraveSoftware/Brave-Browser/Crash Reports/pending/cfde2000-e7ff-4417-9e51-af392997a3c2.lock: File exists (17)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+Installing breakpad exception handler for appid(steam)/version(1639697812)
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: width is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: lines is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: columns is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: bw is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: padding is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: line-margin is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: line-padding is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: separator-style is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: hide-scrollbar is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: fullscreen is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: fake-transparency is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: scrollbar-width is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: fake-background is not found.
+
+(process:28668): XrmOptions-WARNING **: 07:24:39.089: Option: show-match is not found.
+
+** (process:28668): WARNING **: 07:24:39.089: /home/knightmare/.config/rofi/config.rasi:53:19: The option:
+<b>
+configuration
+{
+	theme: "onedark";
+}</b>
+is deprecated. Please replace with: <b>@theme "onedark"</b> after the configuration block.
+
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: width is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: lines is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: columns is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: bw is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: padding is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: line-margin is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: line-padding is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: separator-style is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: hide-scrollbar is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: fullscreen is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: fake-transparency is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: scrollbar-width is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: fake-background is not found.
+
+(process:28718): XrmOptions-WARNING **: 07:25:02.442: Option: show-match is not found.
+
+** (process:28718): WARNING **: 07:25:02.442: /home/knightmare/.config/rofi/config.rasi:53:19: The option:
+<b>
+configuration
+{
+	theme: "onedark";
+}</b>
+is deprecated. Please replace with: <b>@theme "onedark"</b> after the configuration block.
+
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: width is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: lines is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: columns is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: bw is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: padding is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: line-margin is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: line-padding is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: separator-style is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: hide-scrollbar is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: fullscreen is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: fake-transparency is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: scrollbar-width is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: fake-background is not found.
+
+(process:28726): XrmOptions-WARNING **: 07:25:07.198: Option: show-match is not found.
+
+** (process:28726): WARNING **: 07:25:07.198: /home/knightmare/.config/rofi/config.rasi:53:19: The option:
+<b>
+configuration
+{
+	theme: "onedark";
+}</b>
+is deprecated. Please replace with: <b>@theme "onedark"</b> after the configuration block.
+
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.972: Option: width is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: lines is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: columns is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: bw is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: padding is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: line-margin is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: line-padding is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: separator-style is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: hide-scrollbar is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: fullscreen is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: fake-transparency is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: scrollbar-width is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: fake-background is not found.
+
+(process:28734): XrmOptions-WARNING **: 07:25:09.973: Option: show-match is not found.
+
+** (process:28734): WARNING **: 07:25:09.973: /home/knightmare/.config/rofi/config.rasi:53:19: The option:
+<b>
+configuration
+{
+	theme: "onedark";
+}</b>
+is deprecated. Please replace with: <b>@theme "onedark"</b> after the configuration block.
+
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.400: Option: width is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: lines is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: columns is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: bw is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: padding is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: line-margin is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: line-padding is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: separator-style is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: hide-scrollbar is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: fullscreen is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: fake-transparency is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: scrollbar-width is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: fake-background is not found.
+
+(process:29008): XrmOptions-WARNING **: 07:26:08.401: Option: show-match is not found.
+
+** (process:29008): WARNING **: 07:26:08.401: /home/knightmare/.config/rofi/config.rasi:53:19: The option:
+<b>
+configuration
+{
+	theme: "onedark";
+}</b>
+is deprecated. Please replace with: <b>@theme "onedark"</b> after the configuration block.
+
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: width is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: lines is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: columns is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: bw is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: padding is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: line-margin is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: line-padding is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: separator-style is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: hide-scrollbar is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: fullscreen is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: fake-transparency is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: scrollbar-width is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: fake-background is not found.
+
+(process:29018): XrmOptions-WARNING **: 07:26:24.777: Option: show-match is not found.
+section found: ||
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.862: Option: width is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: lines is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: columns is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: bw is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: padding is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: line-margin is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: line-padding is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: separator-style is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: hide-scrollbar is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: fullscreen is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: fake-transparency is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: scrollbar-width is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: fake-background is not found.
+
+(process:29031): XrmOptions-WARNING **: 07:26:38.863: Option: show-match is not found.
+section found: ||
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: width is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: lines is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: columns is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: bw is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: padding is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: line-margin is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: line-padding is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: separator-style is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: hide-scrollbar is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: fullscreen is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: fake-transparency is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: scrollbar-width is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: fake-background is not found.
+
+(process:29043): XrmOptions-WARNING **: 07:26:47.501: Option: show-match is not found.
+
+** (process:29043): WARNING **: 07:26:47.501: /home/knightmare/.config/rofi/config.rasi:53:19: The option:
+<b>
+configuration
+{
+	theme: "onedark";
+}</b>
+is deprecated. Please replace with: <b>@theme "onedark"</b> after the configuration block.
+
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: width is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: lines is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: columns is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: bw is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: padding is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: line-margin is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: line-padding is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: separator-style is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: hide-scrollbar is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: fullscreen is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: fake-transparency is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: scrollbar-width is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: fake-background is not found.
+
+(process:29059): XrmOptions-WARNING **: 07:27:07.655: Option: show-match is not found.
+
+** (process:29059): WARNING **: 07:27:07.655: /home/knightmare/.config/rofi/config.rasi:53:19: The option:
+<b>
+configuration
+{
+	theme: "onedark";
+}</b>
+is deprecated. Please replace with: <b>@theme "onedark"</b> after the configuration block.
+
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: width is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: lines is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: columns is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: bw is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: padding is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: line-margin is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: line-padding is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.101: Option: separator-style is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.102: Option: hide-scrollbar is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.102: Option: fullscreen is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.102: Option: fake-transparency is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.102: Option: scrollbar-width is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.102: Option: fake-background is not found.
+
+(process:29070): XrmOptions-WARNING **: 07:27:32.102: Option: show-match is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: width is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: lines is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: columns is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: bw is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: padding is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: line-margin is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: line-padding is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: separator-style is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: hide-scrollbar is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: fullscreen is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: fake-transparency is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: scrollbar-width is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: fake-background is not found.
+
+(process:29117): XrmOptions-WARNING **: 07:28:02.638: Option: show-match is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: width is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: lines is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: columns is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: bw is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: padding is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: line-margin is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: line-padding is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: separator-style is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: hide-scrollbar is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: fullscreen is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: fake-transparency is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: scrollbar-width is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: fake-background is not found.
+
+(process:29613): XrmOptions-WARNING **: 07:29:34.005: Option: show-match is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: width is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: lines is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: columns is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: bw is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: padding is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: line-margin is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: line-padding is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: separator-style is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: hide-scrollbar is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: fullscreen is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: fake-transparency is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: scrollbar-width is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: fake-background is not found.
+
+(process:29630): XrmOptions-WARNING **: 07:29:37.194: Option: show-match is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: width is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: lines is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: columns is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: bw is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: padding is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: line-margin is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: line-padding is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: separator-style is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: hide-scrollbar is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: fullscreen is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: fake-transparency is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: scrollbar-width is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: fake-background is not found.
+
+(process:30292): XrmOptions-WARNING **: 07:44:16.576: Option: show-match is not found.
+[ 27/12/21 07:46:52.992 session_init FATAL ERROR ] Another composite manager is already running
+Exception in callback Qtile.call_soon.<locals>.f() at /usr/lib/python3.10/site-packages/libqtile/core/manager.py:804
+handle: <Handle Qtile.call_soon.<locals>.f() at /usr/lib/python3.10/site-packages/libqtile/core/manager.py:804>
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/lib/python3.10/site-packages/libqtile/core/manager.py", line 805, in f
+    func(*args)
+  File "/usr/lib/python3.10/site-packages/libqtile/bar.py", line 454, in _actual_draw
+    self._resize(self.length, self.widgets)
+  File "/usr/lib/python3.10/site-packages/libqtile/bar.py", line 323, in _resize
+    [i.length for i in widgets if i.length_type != STRETCH]
+  File "/usr/lib/python3.10/site-packages/libqtile/bar.py", line 323, in <listcomp>
+    [i.length for i in widgets if i.length_type != STRETCH]
+  File "/usr/lib/python3.10/site-packages/libqtile/configurable.py", line 51, in __getattr__
+    raise AttributeError("%s has no attribute: %s" % (cname, name))
+AttributeError: GroupBox has no attribute: length
+Exception in callback Qtile.call_soon.<locals>.f() at /usr/lib/python3.10/site-packages/libqtile/core/manager.py:804
+handle: <Handle Qtile.call_soon.<locals>.f() at /usr/lib/python3.10/site-packages/libqtile/core/manager.py:804>
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/lib/python3.10/site-packages/libqtile/core/manager.py", line 805, in f
+    func(*args)
+  File "/usr/lib/python3.10/site-packages/libqtile/bar.py", line 456, in _actual_draw
+    i.draw()
+  File "/usr/lib/python3.10/site-packages/libqtile/widget/groupbox.py", line 404, in draw
+    self.drawer.draw(offsetx=self.offset, width=self.width)
+  File "/usr/lib/python3.10/site-packages/libqtile/backend/x11/drawer.py", line 163, in draw
+    self.qtile.core.conn.conn.core.CopyArea(  # type: ignore
+  File "/usr/lib/python3.10/site-packages/xcffib/xproto.py", line 3035, in CopyArea
+    return self.send_request(62, buf, is_checked=is_checked)
+  File "/usr/lib/python3.10/site-packages/xcffib/__init__.py", line 391, in send_request
+    seq = self.conn.send_request(flags, xcb_parts + 2, xcb_req)
+  File "/usr/lib/python3.10/site-packages/xcffib/__init__.py", line 569, in wrapper
+    self.invalid()
+  File "/usr/lib/python3.10/site-packages/xcffib/__init__.py", line 556, in invalid
+    raise XcffibException("Invalid connection.")
+xcffib.XcffibException: Invalid connection.
+[ 27/12/21 07:46:54.126 session_init FATAL ERROR ] Another composite manager is already running
+Exiting workitem thread
+
+(steam:12458): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+
+(steam:12458): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(steam:12458): GLib-GObject-CRITICAL **: g_signal_handlers_disconnect_matched: assertion `G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(steam:12458): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed

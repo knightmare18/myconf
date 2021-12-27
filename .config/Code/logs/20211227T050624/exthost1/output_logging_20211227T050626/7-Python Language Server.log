@@ -1,0 +1,15 @@
+[Info  - 05:06:27] Pylance language server 2021.12.2 (pyright 211ebe44) starting
+[Info  - 05:06:27] Server root directory: /home/knightmare/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 05:06:27] No configuration file found.
+[Info  - 05:06:27] No pyproject.toml file found.
+[Info  - 05:06:27] Setting pythonPath for service "qtile": "/bin/python"
+[Warn  - 05:06:27] stubPath /home/knightmare/.config/qtile/typings is not a valid directory.
+[Info  - 05:06:27] Assuming Python version 3.10
+[Info  - 05:06:27] Assuming Python platform Linux
+[Warn  - 05:06:28] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 05:06:28] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 05:06:28] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 05:06:28] Searching for source files
+[Info  - 05:06:28] Found 1 source file
+[Info  - 05:06:28] Background analysis(1) root directory: /home/knightmare/.vscode/extensions/ms-python.vscode-pylance-2021.12.2/dist
+[Info  - 05:06:28] Background analysis(1) started

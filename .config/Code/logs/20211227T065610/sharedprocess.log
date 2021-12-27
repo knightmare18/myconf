@@ -1,0 +1,7 @@
+[2021-12-27 06:56:13.206] [sharedprocess] [info] Starting worker process with pid 23068 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-27 06:56:59.019] [sharedprocess] [info] Installing extension: skyapps.fish-vscode
+[2021-12-27 06:57:01.062] [sharedprocess] [info] Downloaded extension: skyapps.fish-vscode /home/knightmare/.config/Code/CachedExtensionVSIXs/skyapps.fish-vscode-0.2.1
+[2021-12-27 06:57:01.086] [sharedprocess] [info] Extracted extension to /home/knightmare/.vscode/extensions/.aa65515c-4ebe-4f15-9b6b-fdf2f5434990: skyapps.fish-vscode
+[2021-12-27 06:57:01.091] [sharedprocess] [info] Renamed to /home/knightmare/.vscode/extensions/skyapps.fish-vscode-0.2.1
+[2021-12-27 06:57:01.091] [sharedprocess] [info] Extracting completed. skyapps.fish-vscode
+[2021-12-27 06:57:01.093] [sharedprocess] [info] Extension installed successfully: skyapps.fish-vscode

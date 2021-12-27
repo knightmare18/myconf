@@ -1,0 +1,27 @@
+[KDiskFree]
+Device=100
+Free=80
+Full%=52
+HeaderSectionIndices=0,1,2,3,4,5,6,7
+Icon=52
+MountPoint=120
+Size=80
+SortColumn=0
+SortOrder=0
+Type=80
+UsageBar=1040
+
+[MainWindow]
+HDMI-0 eDP-1-1 Window-Maximized 1920x1080=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAP9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1-1 HDMI-0 Window-Maximized 1920x1080=true
+
+[Open-with settings]
+CompletionMode=1
+History=alacr
+
+[UiSettings]
+ColorScheme=Por omisión

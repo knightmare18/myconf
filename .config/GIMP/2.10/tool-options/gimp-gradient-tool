@@ -1,0 +1,9 @@
+# GIMP gimp-gradient-tool options
+
+(foreground (color-rgb 0.15686274509803921 0.54509803921568623 0.6588235294117647))
+(background (color-rgb 0.8901960784313725 0 0.32156862745098042))
+(gradient "Primer plano a fondo (RGB)")
+(brush-size 51)
+(brush-hardness 0.5)
+
+# end of gimp-gradient-tool options

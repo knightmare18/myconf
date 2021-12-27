@@ -1,0 +1,8 @@
+2021/12/27-07:48:54.345 3 Reusing MANIFEST /home/knightmare/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/12/27-07:48:54.346 3 Recovering log #36
+2021/12/27-07:48:54.346 3 Level-0 table #39: started
+2021/12/27-07:48:54.348 3 Level-0 table #39: 21518 bytes OK
+2021/12/27-07:48:54.349 3 Recovering log #39
+2021/12/27-07:48:54.350 3 Reusing old log /home/knightmare/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000039.log 
+2021/12/27-07:48:54.352 3 Delete type=0 #36
+2021/12/27-07:48:54.352 3 Delete type=2 #40

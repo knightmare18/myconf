@@ -1,0 +1,14 @@
+[2021-12-27 06:56:12.192] [exthost] [info] Extension host with pid 23014 started
+[2021-12-27 06:56:12.192] [exthost] [info] Skipping acquiring lock for /home/knightmare/.config/Code/User/workspaceStorage/c02c7c8b2bc8c892d546ea8451d7852e.
+[2021-12-27 06:56:12.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-27 06:56:12.244] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-27 06:56:12.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-27 06:56:12.258] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-27 06:56:12.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-27 06:56:12.297] [exthost] [info] Eager extensions activated
+[2021-12-27 06:56:12.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 06:56:12.319] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 06:56:12.320] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 06:56:12.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-27 06:57:47.436] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-27 06:57:47.443] [exthost] [info] Extension host with pid 23014 exiting with code 0

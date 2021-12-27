@@ -1,0 +1,7 @@
+[2021-12-27 05:06:24.925] [main] [info] update#setState idle
+[2021-12-27 05:06:25.035] [main] [info] ExtensionHostStarterWorker created
+[2021-12-27 05:06:25.918] [main] [info] Starting extension host with pid 8997 (fork() took 10 ms).
+[2021-12-27 05:06:54.928] [main] [info] update#setState checking for updates
+[2021-12-27 05:06:55.172] [main] [info] update#setState idle
+[2021-12-27 05:09:50.213] [main] [info] Waiting for extension host with pid 8997 to exit.
+[2021-12-27 05:09:50.213] [main] [info] Extension host with pid 8997 exited with code: 0, signal: null.

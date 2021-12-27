@@ -1,0 +1,310 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/xml version="1.0"
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:qa!
+|2,0,1640457746,,"qa!"
+:wa!
+|2,0,1640446209,,"wa!"
+:qw!
+|2,0,1640446206,,"qw!"
+:qa
+|2,0,1640441521,,"qa"
+:qwa!
+|2,0,1640388733,,"qwa!"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+??xml version="1.0"?>
+|2,1,1640446195,63,"xml version=\"1.0\"?>"
+?/**
+|2,1,1640441484,47,"**"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""-	CHAR	0
+	{"TargetFanSpeeds": [80.0]}
+|3,1,36,0,1,0,1640457735,"{\"TargetFanSpeeds\": [80.0]}"
+
+# Marcas en el archivo:
+'0  1  0  /etc/nbfc/nbfc.json
+|4,48,1,0,1640457912,"/etc/nbfc/nbfc.json"
+'1  1  0  /etc/nbfc/nbfc.json
+|4,49,1,0,1640457746,"/etc/nbfc/nbfc.json"
+'2  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,50,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+'3  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,51,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+'4  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,52,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+'5  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,53,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+'6  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,54,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+'7  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,55,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+'8  147  0  ~/.config/rofi/config.rasi
+|4,56,147,0,1640442711,"~/.config/rofi/config.rasi"
+'9  147  0  ~/.config/rofi/config.rasi
+|4,57,147,0,1640442711,"~/.config/rofi/config.rasi"
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  /etc/nbfc/nbfc.json
+|4,39,1,0,1640457912,"/etc/nbfc/nbfc.json"
+-'  1  0  /etc/nbfc/nbfc.json
+|4,39,1,0,1640457912,"/etc/nbfc/nbfc.json"
+-'  1  0  /etc/nbfc/nbfc.json
+|4,39,1,0,1640457746,"/etc/nbfc/nbfc.json"
+-'  1  0  /etc/nbfc/nbfc.json
+|4,39,1,0,1640457746,"/etc/nbfc/nbfc.json"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446219,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,0,1640446216,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,0,1640446216,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,0,1640446216,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,0,1640446216,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,0,1640446216,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,0,1640446216,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  242  283  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,242,283,1640446179,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446166,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446166,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446166,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  1  0  /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+|4,39,1,0,1640446166,"/opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  147  0  ~/.config/rofi/config.rasi
+|4,39,147,0,1640442711,"~/.config/rofi/config.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  145  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,145,0,1640441521,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/DarkBlue.rasi
+|4,39,1,0,1640441484,"~/.config/rofi/DarkBlue.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  1  0  ~/.config/rofi/config.rasi
+|4,39,1,0,1640441281,"~/.config/rofi/config.rasi"
+-'  168  6  ~/.config/qtile/config.py
+|4,39,168,6,1640389118,"~/.config/qtile/config.py"
+-'  1  0  ~/config.py
+|4,39,1,0,1640389118,"~/config.py"
+-'  168  6  ~/.config/qtile/config.py
+|4,39,168,6,1640389118,"~/.config/qtile/config.py"
+-'  1  0  ~/config.py
+|4,39,1,0,1640389118,"~/config.py"
+-'  168  6  ~/.config/qtile/config.py
+|4,39,168,6,1640389118,"~/.config/qtile/config.py"
+-'  168  7  ~/.config/qtile/config.py
+|4,39,168,7,1640389118,"~/.config/qtile/config.py"
+-'  1  0  ~/config.py
+|4,39,1,0,1640389118,"~/config.py"
+-'  168  6  ~/.config/qtile/config.py
+|4,39,168,6,1640389118,"~/.config/qtile/config.py"
+-'  168  7  ~/.config/qtile/config.py
+|4,39,168,7,1640389118,"~/.config/qtile/config.py"
+-'  1  0  ~/config.py
+|4,39,1,0,1640389118,"~/config.py"
+-'  168  6  ~/.config/qtile/config.py
+|4,39,168,6,1640389118,"~/.config/qtile/config.py"
+-'  168  7  ~/.config/qtile/config.py
+|4,39,168,7,1640389118,"~/.config/qtile/config.py"
+-'  1  0  ~/config.py
+|4,39,1,0,1640389118,"~/config.py"
+-'  168  6  ~/.config/qtile/config.py
+|4,39,168,6,1640389118,"~/.config/qtile/config.py"
+-'  168  7  ~/.config/qtile/config.py
+|4,39,168,7,1640389118,"~/.config/qtile/config.py"
+-'  1  0  ~/config.py
+|4,39,1,0,1640389118,"~/config.py"
+-'  168  6  ~/.config/qtile/config.py
+|4,39,168,6,1640389118,"~/.config/qtile/config.py"
+-'  168  7  ~/.config/qtile/config.py
+|4,39,168,7,1640389118,"~/.config/qtile/config.py"
+-'  1  0  ~/config.py
+|4,39,1,0,1640389118,"~/config.py"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> /etc/nbfc/nbfc.json
+	*	1640457757	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /opt/nbfc/Configs/Acer Nitro 5 AN515-43.xml
+	*	1640446216	0
+	"	1	0
+	^	242	0
+	.	242	0
+	+	242	284
+	+	1	114
+	+	242	0
+
+> ~/.config/rofi/DarkBlue.rasi
+	*	1640441514	0
+	"	145	0
+	^	145	1
+	.	145	1
+	+	145	5
+	+	145	1
+
+> ~/.config/rofi/config.rasi
+	*	1640441304	0
+	"	147	0
+
+> ~/config.py
+	*	1640389118	0
+	"	1	0
+
+> ~/.config/qtile/config.py
+	*	1640388834	0
+	"	168	6
+	^	165	22
+	.	165	22
+	+	167	10
+	+	167	12
+	+	167	11
+	+	167	12
+	+	165	22

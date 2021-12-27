@@ -1,0 +1,15 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/knightmare/.local/share/omf/themes/mars
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/knightmare/.local/share/omf/themes/mars/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :functions/fish_prompt.fish
+> git ls-files --stage -- /home/knightmare/.local/share/omf/themes/mars/functions/fish_prompt.fish
+> git cat-file -s db4713d18ce55ebc1954fae0efdc3fab43bd31a9
